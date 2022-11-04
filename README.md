@@ -67,7 +67,7 @@ id,isDefault
 |     policyCode     |      公开可用的策略_代码=1新产品不公开可用的策略_代码=2      |
 |   n系列匿名特征    |        匿名特征n0-n14，为一些贷款人行为计数特征的处理        |
 
-## BaseLine V1_lgb--分数: 0.7345
+## BaseLine V1_cbt--分数: 0.7345
 
 ### 一、数据探索
 
@@ -231,7 +231,7 @@ result.to_csv('./baselinev1.csv',index=False)
 
 
 
-## BaseLine V1_lgb--分数: 0.7349
+## BaseLine V1_cbt--分数: 0.7349
 
 ### 一、特征工程优化
 
