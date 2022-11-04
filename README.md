@@ -4,7 +4,7 @@
 
 赛题链接：[阿里云-贷款违约预测](https://tianchi.aliyun.com/competition/entrance/531830/introduction)
 
-代码仓库：
+代码仓库：[阿里云-贷款违约预测---代码仓库](https://github.com/wxydaydayup/LoanDefaultDetection/tree/master)
 
 ### 一、背景介绍 
 
@@ -253,3 +253,4 @@ train = df[df['isDefault'].notnull()]
 test = df[df['isDefault'].isnull()]
 ```
 
+**全部代码已放代码仓库：**[阿里云-贷款违约预测---代码仓库](https://github.com/wxydaydayup/LoanDefaultDetection/tree/master)
